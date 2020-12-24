@@ -5,3 +5,6 @@ Just a simple example code in Go showing a minimal end-to-end flow for server si
 # Generate OTP code and OTP URL
 - Create `secret.pem` file and write your secret key to file
 - Run golang `go run .`
+
+## Orginal project
+[google-authenticator](https://github.com/tilaklodha/google-authenticator)
