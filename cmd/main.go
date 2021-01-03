@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/base32"
 	"fmt"
-	"io/ioutil"
 	"github.com/theykk/2fa-go"
+	"io/ioutil"
 )
 
 func main() {
